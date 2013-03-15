@@ -23,5 +23,11 @@
     <ClInclude Include="EngineCore.h">
       <Filter>Resource Files</Filter>
     </ClInclude>
+    <ClInclude Include="EngineLevels.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\Box2D\Box2D.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
